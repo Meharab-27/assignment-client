@@ -1,16 +1,21 @@
-# React + Vite
+website name:assignment-client
+website live url:https://assignment-client-e495c.web.app/
+key feature:BookHaven – Key Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📚 Explore All Books
+Browse a rich collection of books added by users from different genres — from fiction to self-development — all in one place.
 
-Currently, two official plugins are available:
+✍️ Add Your Own Books
+Easily add your favorite books with cover images, author names, genres, and personal notes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⭐ Rate & Review
+Share your thoughts and rate books to help others discover the best reads.
 
-## React Compiler
+🔍 Smart Search & Sorting
+Instantly find books by title, author, or genre, and sort them by rating or date added.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👤 Personalized Dashboard
+View and manage all the books you’ve added — edit or delete them anytime from your profile.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive & Modern Design
+Enjoy a clean, mobile-friendly interface with smooth animations and an intuitive layout.
