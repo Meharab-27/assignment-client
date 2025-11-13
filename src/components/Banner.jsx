@@ -19,7 +19,7 @@ const Banner = () => {
                 <div className="absolute bg-white opacity-10 rounded-full w-72 h-73 -bottom-20 -right-20 animate-ping sm:w-96 sm:h-96 sm:-bottom-28 sm:-right-28"></div>
             </div>
 
-            <div className="relative container mx-auto px-4 sm:px-6 py-16 sm:py-24 text-center">
+            <div className="relative container mx-auto px-3 sm:px-6 py-16 sm:py-24 text-center">
                 <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-4 animate-fadeIn">
                     Welcome to My Library
                 </h1>
