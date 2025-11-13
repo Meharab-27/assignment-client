@@ -4,18 +4,18 @@ import { Link } from 'react-router';
 
 const Banner = () => {
     const goToAllBooks = () => {
-        window.location.href = "/all-books"; // page reload
+        window.location.href = "/all-books"; 
     };
 
     const goToAddBook = () => {
-        window.location.href = "/addBook"; // page reload
+        window.location.href = "/addBook"; 
     };
 
     return (
         <div className="relative bg-linear-to-r from-blue-500 to-indigo-600 text-white overflow-hidden">
             {/* Background animation */}
             <div className="absolute top-0 left-0 w-full h-full">
-                <div className="absolute bg-white opacity-10 rounded-full w-48 h-47 -top-16 -left-16 animate-pulse sm:w-72 sm:h-72 sm:-top-20 sm:-left-20"></div>
+                <div className="absolute bg-white opacity-9 rounded-full w-48 h-47 -top-16 -left-16 animate-pulse sm:w-72 sm:h-72 sm:-top-20 sm:-left-20"></div>
                 <div className="absolute bg-white opacity-10 rounded-full w-72 h-73 -bottom-20 -right-20 animate-ping sm:w-96 sm:h-96 sm:-bottom-28 sm:-right-28"></div>
             </div>
 
