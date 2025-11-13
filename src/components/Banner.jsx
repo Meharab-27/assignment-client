@@ -16,7 +16,7 @@ const Banner = () => {
             {/* Background animation */}
             <div className="absolute top-0 left-0 w-full h-full">
                 <div className="absolute bg-white opacity-10 rounded-full w-48 h-48 -top-16 -left-16 animate-pulse sm:w-72 sm:h-72 sm:-top-20 sm:-left-20"></div>
-                <div className="absolute bg-white opacity-9 rounded-full w-72 h-72 -bottom-20 -right-20 animate-ping sm:w-96 sm:h-96 sm:-bottom-28 sm:-right-28"></div>
+                <div className="absolute bg-white opacity-9 rounded-full w-72 h-73 -bottom-20 -right-20 animate-ping sm:w-96 sm:h-96 sm:-bottom-28 sm:-right-28"></div>
             </div>
 
             <div className="relative container mx-auto px-4 sm:px-6 py-16 sm:py-24 text-center">
