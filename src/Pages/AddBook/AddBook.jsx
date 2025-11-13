@@ -60,7 +60,7 @@ const AddBook = () => {
   };
 
   return (
-    <div className="min-h-screen bg-linear-to-br from-purple-50 via-pink-50 to-blue-50 py-12 px-4">
+    <div className="min-h-screen  py-12 px-3 mt-16">
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-3xl shadow-2xl overflow-hidden backdrop-blur-xl bg-opacity-95 border border-white/20">
           {/* Header */}

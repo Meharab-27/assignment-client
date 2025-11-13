@@ -7,7 +7,7 @@ import { SiX } from "react-icons/si"; // X logo
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-r from-white via-purple-50 to-blue-50 text-gray-800 mt-12 shadow-inner">
+    <footer className="bg-linear-to-r from-white via-purple-50 to-blue-50 text-gray-800 mt-12 shadow-inner">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
         <div className="flex flex-col sm:flex-row justify-between items-center sm:items-start space-y-6 sm:space-y-0 sm:space-x-12">
           
