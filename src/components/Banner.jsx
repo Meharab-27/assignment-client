@@ -23,7 +23,7 @@ const Banner = () => {
                 <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-4 animate-fadeIn">
                     Welcome to My Library
                 </h1>
-                <p className="text-base sm:text-lg md:text-2xl mb-8 animate-fadeIn delay-200">
+                <p className="text-base sm:text-lg md:text-2xl mb-7 animate-fadeIn delay-200">
                     Explore, Add & Manage Your Favorite Books
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-4 animate-fadeIn delay-400">
